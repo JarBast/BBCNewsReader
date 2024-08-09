@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home_button"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/back_button"
+        android:icon="@drawable/ic_back"
+        android:title="@string/back"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_add_to_favorites"
+        android:icon="@drawable/ic_favorite"
+        android:title="Add to Favorites"
+        app:showAsAction="always"
+        tools:ignore="HardcodedText" />
+</menu>

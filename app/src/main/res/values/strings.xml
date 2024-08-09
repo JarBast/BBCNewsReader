@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BBC News Reader</string>
+    <string name="go_to_article">Go to Article</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="favorites">Favorites</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="forward" />
+</resources>

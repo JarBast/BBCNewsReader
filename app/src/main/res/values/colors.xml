@@ -1,0 +1,41 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <!-- Primary Color -->
+    <color name="colorPrimary">#6200EE</color> <!-- Purple 500 -->
+
+    <!-- Primary Dark Color -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Purple 700 -->
+
+    <!-- Accent Color -->
+    <color name="colorAccent">#03DAC5</color> <!-- Teal 200 -->
+
+    <!-- Background Color -->
+    <color name="colorBackground">#FFFFFF</color> <!-- White -->
+
+    <!-- On Primary Color -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White -->
+
+    <!-- Secondary Color -->
+    <color name="colorSecondary">#03DAC5</color> <!-- Teal 200 -->
+
+    <!-- Secondary Dark Color -->
+    <color name="colorSecondaryDark">#3700B3</color> <!-- Purple 700 -->
+
+    <!-- On Secondary Color -->
+    <color name="colorOnSecondary">#000000</color> <!-- Black -->
+
+    <!-- On Background Color -->
+    <color name="colorOnBackground">#000000</color> <!-- Black -->
+
+    <!-- Surface Color -->
+    <color name="colorSurface">#FFFFFF</color> <!-- White -->
+
+    <!-- On Surface Color -->
+    <color name="colorOnSurface">#000000</color> <!-- Black -->
+
+    <!-- Error Color -->
+    <color name="colorError">#B00020</color> <!-- Red -->
+
+    <!-- On Error Color -->
+    <color name="colorOnError">#FFFFFF</color> <!-- White -->
+</resources>
